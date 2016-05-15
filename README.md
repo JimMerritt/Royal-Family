@@ -36,6 +36,8 @@ Players take turns.
 1. Draw: Take one card from any of the three face-up card piles OR the face-down deck.
 2. Take One Action, see next section.
 
+### Actions
+
 ##### Number Card Actions (2–10):
 1. **Fortify a castle:** If you've drawn a number card that **matches the suit of a castle in your possession**, you may place it behind **that** castle (with the number sticking out a bit at the top) to fortify the castle. This will help protect against future attacks.
 1. **Attack a castle:** You must have at least one family member present in your castle to be able to attack. If you do, then if you've drawn a number card that matches the suit of an **opponent castle**, you can declare an attack on the other player's castle. Hand them the card and have them resolve the attack, see next sub-section.
