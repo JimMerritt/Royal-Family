@@ -54,6 +54,11 @@ Players take turns.
 
 ##### Ace Card Actions
 
+Take one of the following actions:
+
+**Build + Extra Turn:** If the suit **matches the color** of your first castle, you may place it next to your first castle. You now have two castles. You can do all the things to the 2nd that you could do to the first. The opponent must now destroy both to win. Then take an extra turn.
+**Discard + Extra Turn:** If the suit **matches your opponent color**.
+
 ##### Joker Card Action
 
 ### Rules I'm Questioning:
