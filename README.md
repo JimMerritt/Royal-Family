@@ -52,14 +52,17 @@ Players take turns.
 2. **Kidnap:** If the card **matches the suit of an opponent castle**, you may place it below (not under) one of your castles. You may only kidnap one person per castle (unless you have the Queen).
 3. **Discard:** If you don't want to your can't do the other actions, then you may place the card on one of the three face-up piles between the two castles.
 
-##### Ace Card Actions
+##### Castle Card Actions (Ace)
 
 Take one of the following actions:
 
-**Build + Extra Turn:** If the suit **matches the color** of your first castle, you may place it next to your first castle. You now have two castles. You can do all the things to the 2nd that you could do to the first. The opponent must now destroy both to win. Then take an extra turn.
-**Discard + Extra Turn:** If the suit **matches your opponent color**.
+- **Build + Extra Turn:** If the suit **matches the color** of your first castle, you may place it next to your first castle. You now have two castles. You can do all the things to the 2nd that you could do to the first. The opponent must now destroy both to win. Then take an extra turn.
+- **Discard + Extra Turn:** If the suit **matches your opponent color** you discard it. Then take an extra turn. Perhaps this is a good chance to cover that castle up with another card ;) but you don't have to.
 
-##### Joker Card Action
+##### Assassin Card Actions (Joker)
+
+- **Assassinate:** If the opponent has at least one family member in a castle you can play this card to assassinate that person. You must permanently discard both the Joker and the assassinated family member.
+- **Discard:** If the opponent does not have any family members to assassinate then discard the Joker to one of the three face-up piles.
 
 ### Rules I'm Questioning:
 
