@@ -39,7 +39,7 @@ Players take turns. The player with least matching suit cards in the initial thr
 ### Actions
 
 ##### Number Card Actions (2–10):
-1. **Fortify a castle:** If you've drawn a number card that **matches the suit of a castle in your possession**, you may place it behind **that** castle (with the number sticking out a bit at the top) to fortify the castle. This will help protect against future attacks.
+1. **Fortify a castle:** If you've drawn a number card that **matches the suit of a castle in your possession**, you may place it behind **that** castle (with the number sticking out a bit at the top) to fortify the castle. This will help protect against future attacks. You may only have up to three (3) fortifications per castle.
 1. **Attack a castle:** You must have at least one family member present in your castle to be able to attack. If you do, then if you've drawn a number card that matches the suit of an **opponent castle**, you can declare an attack on the other player's castle. Hand them the card and have them resolve the attack, see next sub-section.
   - **Resolving an Attack:** The attacked player resolves the attack. They either:
     - **Defend:** Use a number card that is currently fortifying the attacked castle to cancel out the attack. The fortification card must be equal or greater than the attack number card.
