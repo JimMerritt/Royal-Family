@@ -84,4 +84,5 @@ Take one of the following actions:
 - The jack's benefit becomes less special once the player has two castles
 - Even allowing building of another castle, I'm pretty blurry about how that will affect overall game play.
 - Maybe the King's "Morale" benefit should allow both suits as fortifications instead of +2. This would balance the Jack's attack benefit that allows both suits.
+- The various rules around discarding cards and covering them up are troublesome, because then the next player can choose to uncover the card, but then the next player can just cover it up again. There can be an infinite loop of cover then uncover until someone just gives up.
 - Any rule really...
