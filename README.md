@@ -8,8 +8,8 @@ Two royal families race to destroy each other. An open source table top game tha
 
 1. Get a normal 52 count card deck. Keep the Jokers in the deck.
 1. Each player starts with a castle (Ace card):
-  - Player One starts with a black castle placed in front of them (Ace of Spades). This is the Darklein family, their primary crest is the Spade &#9824;. Their secondary crest is the Club &#9827;.
-  - Player Two starts with a red castle placed in front of them (Ace of Hearts). This is the Bludgein family, their primary crest is the Heart &#9825;. Their secondary crest is the Diamond &#9826;.
+  - Player One starts with a black castle placed in front of them (Ace of Spades). This is the Darklein family, their crest is the Spade &#9824;. The crest of their alliance family is the Club &#9827;.
+  - Player Two starts with a red castle placed in front of them (Ace of Hearts). This is the Bludgein family, their primary crest is the Heart &#9825;. The crest of their alliance family is the Diamond &#9826;.
 1. Shuffle the remaining deck.
 1. Deal three (3) cards from the top of the deck. Place them between the two the castles and the deck to the side of the three cards as follows:
 
@@ -50,18 +50,23 @@ Players take turns. The player with least matching suit cards in the initial thr
 
 ##### Royal Family Card Actions (King, Queen, Jack):
 1. **Bring Home:** If the card **matches the suit of a castle in your possession**, you may place it in on top of **that** castle (leave the Ace showing a bit out the top of the face card). That family member adds one of the following benefits:
-  - **King - "Morale"** - When the king is home the whole kingdom gets a morale boost. The defending army fights harder. **All of your fortifications gain +2.** 
-  - **Queen - "Hospitality"** - The Queen knows that even in war you must treat your enemies with respect. She treats the kidnapped royal family members as they deserve; like royalty. **You may kidnap up to three opponent family members in each castle instead of just one.**
-  - **Jack - "Cunning"** - The prince's youthful cunning nature extends to his war plans. His strategies are flexible and make use of deceitful and creative attacks. **You can attack with either suit of the opponent's color.** So if the opponent is black and has the spade castle, then the red prince enables the red player to attack with *either* a spade *or* a club number card.
-2. **Kidnap:** If the card **matches the suit of an opponent castle**, you may place it below (not under) one of your castles. You may only kidnap one person per castle (unless you have the Queen).
-  - **Rescuing:** The opponent will have a chance to rescue the family member if they attack. Read the Attack section.
+  - **King - "Morale"**: When the King is home the whole kingdom gets a morale boost.
+    - The defending army fights harder. **All of your fortifications gain +2 in the king's matching castle.** 
+    - The alliance army helps defend. **You may use your alliance family cards to fortify the king's matching castle.**
+  - **Queen - "Hospitality"** - The Queen is a master of politics.
+    - The Queen knows that even in war you must treat your enemies with respect. She treats the kidnapped royal family members as they deserve; like royalty. **You may kidnap up to three opponent family members in the queen's matching castle instead of just one.**
+    - The Queen casts doubt into the alliance of her enemy. **The opponent's alliance cards are affected ???**
+  - **Jack - "Cunning"** - The Prince's youthful cunning nature extends to his war plans.
+    - His strategies are flexible and make use of deceitful and creative attacks. **You can attack with either suit of the opponent's color.**
+    - His attacks are fierce: **All attacks of the suit matching the attacked castle gain +1.**
+2. **Kidnap:** If the card **matches the suit of an opponent castle**, you may place it below (not under) one of your castles. You may only kidnap one person per castle (unless you have the Queen). The opponent will have a chance to rescue the family member when they attack. Read the Attack section.
 3. **Discard:** If you don't want to or can't do the other actions, then you may place the card on one of the three face-up piles between the two castles.
 
 ##### Castle Card Actions (Ace)
 
 Take one of the following actions:
 
-- **Build + Extra Turn:** If the suit **matches the color** of your first castle, you may place it next to your first castle. You now have two castles. You can do all the things to the 2nd that you could do to the first. The opponent must now destroy both to win. Then take an extra turn.
+- **Inspire Another Kingdom + Extra Turn:** If the suit is your alliance family's suit, you may place it next to your first castle. Then take an extra turn. You now have two castles. You can do all the things to the 2nd that you could do to the first. The opponent must now destroy both to win.
 - **Discard + Extra Turn:** If the suit **matches your opponent color** you discard it. Then take an extra turn. Perhaps this is a good chance to cover that castle up with another card ;) but you don't have to.
 
 ##### Assassin Card Actions (Joker)
