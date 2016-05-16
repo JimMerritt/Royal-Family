@@ -72,9 +72,10 @@ Take one of the following actions:
 ### Rules I'm Questioning:
 
 - All number based rules are up for tweaking: 20hp for castles, +2 king bonus, etc.
-- Needing at least 1 family member to be able to attack. I wonder if they should need zero instead.
+- Needing at least 1 family member to be able to attack. I wonder if they should need zero instead. It's worth trying both ways and see which is better.
 - Attacking requires the suit of the castle you want to attack. I wonder if an attack should be made with the suit that matches the own player's castle. This way the player must choose between fortification and attacking, but then we may need better options for all the other suits.
-- At the start both clubs and diamonds can really only be discarded. It's helpful because you can cover up cards that your opponent may want but there may be more interesting options we could think of.
+- At the start both clubs and diamonds can really only be discarded. It's minorly helpful because you can cover up cards that your opponent may want but there may be more interesting options we could think of.
+  - Perhaps, for example, if you are Hearts you could use the other red color, Diamonds, to start building the foundation of your new castle. If you collect a pattern or sum then you get to find and take out the Diamond Ace and build your castle. The pattern could be 3-card straight, or maybe a sum of 10 or 15 or something, or just 5? of any diamond card.
 - The jack's benefit becomes less special once the player has two castles
 - Even allowing building of another castle, I'm pretty blurry about how that will affect overall game play.
 - Maybe the King's "Morale" benefit should allow both suits as fortifications instead of +2. This would balance the Jack's attack benefit that allows both suits.
