@@ -29,7 +29,7 @@ A player wins when they complete one of the objectives:
 
 ### Game Play
 
-Players take turns. 
+Players take turns. The player with least matching suit cards in the initial three that were dealt goes first.
 
 ##### On a player's turn they do the following, in order:
 
