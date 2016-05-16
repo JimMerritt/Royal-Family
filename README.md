@@ -54,7 +54,7 @@ Players take turns.
   - **Jack - "Cunning"** - The prince's youthful cunning nature extends to his war plans. His strategies are flexible and make use of deceitful and creative attacks. **You can attack with either suit of the opponent's color.** So if the opponent is black and has the spade castle, then the red prince enables the red player to attack with *either* a spade *or* a club number card.
 2. **Kidnap:** If the card **matches the suit of an opponent castle**, you may place it below (not under) one of your castles. You may only kidnap one person per castle (unless you have the Queen).
   - **Rescuing:** The opponent will have a chance to rescue the family member if they attack. Read the Attack section.
-3. **Discard:** If you don't want to your can't do the other actions, then you may place the card on one of the three face-up piles between the two castles.
+3. **Discard:** If you don't want to or can't do the other actions, then you may place the card on one of the three face-up piles between the two castles.
 
 ##### Castle Card Actions (Ace)
 
