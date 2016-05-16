@@ -1,4 +1,4 @@
-# Royal-Family
+# Dark Blood
 
 Two royal families race to destroy each other. An open source table top game that requires only a normal deck of cards
 
