@@ -1,6 +1,6 @@
 # Royal-Family
 
-An open source table top games that requires only a normal deck of cards
+Two royal families race to destroy each other. An open source table top game that requires only a normal deck of cards
 
 #### Players: 2
 
@@ -73,3 +73,6 @@ Take one of the following actions:
 - Attacking requires the suit of the castle you want to attack. I wonder if an attack should be made with the suit that matches the own player's castle. This way the player must choose between fortification and attacking, but then we may need better options for all the other suits.
 - At the start both clubs and diamonds can really only be discarded. It's helpful because you can cover up cards that your opponent may want but there may be more interesting options we could think of.
 - The jack's benefit becomes less special once the player has two castles
+- Even allowing building of another castle, I'm pretty blurry about how that will affect overall game play.
+- Maybe the King's "Morale" benefit should allow both suits as fortifications instead of +2. This would balance the Jack's attack benefit that allows both suits.
+- Any rule really...
