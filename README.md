@@ -33,7 +33,7 @@ Players take turns. The player with least matching suit cards in the initial thr
 
 ##### On a player's turn they do the following, in order:
 
-1. Draw: Take one card from any of the three face-up card piles OR the face-down deck.
+1. Draw: Take one card from any of the three face-up card piles OR the face-down deck. If there are no cards in the face-down deck, collect up all the face-up pile cards, shuffle, deal three new cards and place the remaining face down again.
 2. Take One Action: See next section.
 
 ### Actions
