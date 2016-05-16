@@ -25,7 +25,7 @@ DECK | ?1 | ?2 | ?3
 
 A player wins when they complete one of the objectives:
 - Destroy all opponent castles
-- Populate a castle (A) with a full royal family (K, Q, J)
+- Populate two castles (A) with their full royal family (K, Q, J). Two castles means your castle and your alliances castle.
 
 ### Game Play
 
@@ -59,7 +59,7 @@ Players take turns. The player with least matching suit cards in the initial thr
   - **Jack - "Cunning"** - The Prince's youthful cunning nature extends to his war plans.
     - His strategies are flexible and make use of deceitful and creative attacks. **You can attack with either suit of the opponent's color.**
     - His attacks are fierce: **All attacks of the suit matching the attacked castle gain +1.**
-2. **Kidnap:** If the card **matches the suit of an opponent castle**, you may place it below (not under) one of your castles. You may only kidnap one person per castle (unless you have the Queen). The opponent will have a chance to rescue the family member when they attack. Read the Attack section.
+2. **Kidnap:** If the card **matches the suit of an opponent castle**, you may place it below (not under) one of your castles. You may only kidnap one person per castle (unless you have the Queen). If you already have the max allowed kidnapped, you can choose which to keep kidnapped and which to release (discard). The opponent will have a chance to rescue the family member when they attack. Read the Attack section.
 3. **Discard:** If you don't want to or can't do the other actions, then you may place the card on one of the three face-up piles between the two castles.
 
 ##### Castle Card Actions (Ace)
