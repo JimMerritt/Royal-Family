@@ -2,7 +2,7 @@
 
 Two royal families race to destroy each other. An open source table top game that requires only a normal deck of cards
 
-#### Players: 2
+#### Two Players
 
 ### Setup: 
 
