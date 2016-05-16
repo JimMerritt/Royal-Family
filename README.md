@@ -31,10 +31,10 @@ A player wins when they complete one of the objectives:
 
 Players take turns. 
 
-##### On a player's turn they:
+##### On a player's turn they do the following, in order:
 
 1. Draw: Take one card from any of the three face-up card piles OR the face-down deck.
-2. Take One Action, see next section.
+2. Take One Action: See next section.
 
 ### Actions
 
@@ -44,14 +44,16 @@ Players take turns.
   - **Resolving an Attack:** The attacked player resolves the attack. They either:
     - **Defend:** Use a number card that is currently fortifying the attacked castle to cancel out the attack. The fortification card must be equal or greater than the attack number card.
     - **Take Castle Damage:** If the player cannot **Defend** then they place the attack number card to the side of the castle card. The castle now has that number of damage. When a castle take twenty (20) damage it is destroyed.
+  - **Rescuing:** If the castle takes damage, then the opponent may rescue one (1) family member that is kidnapped and place it in their castle.
 1. **Discard:** If the player doesn't want to or can't fortify or attack, they must discard the card. To discard, place the card face up on one of the three piles between the castles. 
 
 ##### Royal Family Card Actions (King, Queen, Jack):
-1. **Place in One of Your Castles:** If the card **matches the suit of a castle in your possession**, you may place it in front of **that** castle (leave the Ace showing a bit out the top of the face card). That family member adds one of the following benefits:
+1. **Bring Home:** If the card **matches the suit of a castle in your possession**, you may place it in on top of **that** castle (leave the Ace showing a bit out the top of the face card). That family member adds one of the following benefits:
   - **King - "Morale"** - When the king is home the whole kingdom gets a morale boost. The defending army fights harder. **All of your fortifications gain +2.** 
   - **Queen - "Hospitality"** - The Queen knows that even in war you must treat your enemies with respect. She treats the kidnapped royal family members as they deserve; like royalty. **You may kidnap up to three opponent family members in each castle instead of just one.**
   - **Jack - "Cunning"** - The prince's youthful cunning nature extends to his war plans. His strategies are flexible and make use of deceitful and creative attacks. **You can attack with either suit of the opponent's color.** So if the opponent is black and has the spade castle, then the red prince enables the red player to attack with *either* a spade *or* a club number card.
 2. **Kidnap:** If the card **matches the suit of an opponent castle**, you may place it below (not under) one of your castles. You may only kidnap one person per castle (unless you have the Queen).
+  - **Rescuing:** The opponent will have a chance to rescue the family member if they attack. Read the Attack section.
 3. **Discard:** If you don't want to your can't do the other actions, then you may place the card on one of the three face-up piles between the two castles.
 
 ##### Castle Card Actions (Ace)
