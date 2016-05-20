@@ -71,9 +71,7 @@ Rounds consist of three turns. A player will take one or two turns during a roun
 
 Number cards represent the troops of a given family. These troops can be sent out against an opponent, or can be used to fortify a castle. A player may use a number card ranging from 3 to 9 if that number card **matches the suit of a castle the player currently has active**.
 
-- **Fortify a castle:** A player may use a number card ranging from 3 to 9 to fortify the castle of the same suit. A castle may only have one fortification in place at any point. If a castle has a fortification already in place, the player may discard that fortification and replace it with the drawn card. The castle must be active to hold a fortification.
-
-Fortifications can be attacked. When this happens, the value of the fortification is reduced from the value of the number card by the amount of the attacker's number card. When a fortification reaches a value of zero (or below), it is destroyed and placed in a face-down discard pile.
+- **Fortify a castle:** A player may use a number card ranging from 3 to 9 to fortify the castle of the same suit. A castle may only have one fortification in place at any point. If a castle has a fortification already in place, the player may discard that fortification and replace it with the drawn card. The castle must be active to hold a fortification.<br /><br />Fortifications can be attacked. When this happens, the value of the fortification is reduced from the value of the number card by the amount of the attacker's number card. When a fortification reaches a value of zero (or below), it is destroyed and placed in a face-down discard pile.
 
 - **Attack a fortification:** If your opponent has a fortification in place, you may use your troops to attack their fortification. The value of the attack is determined by the card being used to attack. The opponent's fortification is reduced by that amount. Following the attack, the attacking card is destroyed and placed in the face-down discard pile. If the fortification value is reduced to zero (or below), it is also destroyed and placed in the face-down discard pile.
 
