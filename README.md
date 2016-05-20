@@ -75,9 +75,7 @@ Number cards represent the troops of a given family. These troops can be sent ou
 
 - **Attack a fortification:** If your opponent has a fortification in place, you may use your troops to attack their fortification. The value of the attack is determined by the card being used to attack. The opponent's fortification is reduced by that amount. Following the attack, the attacking card is destroyed and placed in the face-down discard pile. If the fortification value is reduced to zero (or below), it is also destroyed and placed in the face-down discard pile.
 
-- **Attack a castle:** If your opponent does not have a fortification in place and you currently have at least one member of your Royal Family residing in the attacking castle, you may attack their castle. Damage done to an opponent's castle is determined not by the value of your troops card, but by the number of Royal Family members in your castle at the time of the attack.
-
-If there are two members of the Royal Family in your castle, you will reduce their castle hit points by two. If there are three, you will reduce it by three. Since there are only three cards (K, Q, J) that can be in the Royal Family, max damage against a castle is three.
+- **Attack a castle:** If your opponent does not have a fortification in place and you currently have at least one member of your Royal Family residing in the attacking castle, you may attack their castle. Damage done to an opponent's castle is determined not by the value of your troops card, but by the number of Royal Family members in your castle at the time of the attack.<br /><br />If there are two members of the Royal Family in your castle, you will reduce their castle hit points by two. If there are three, you will reduce it by three. Since there are only three cards (K, Q, J) that can be in the Royal Family, max damage against a castle is three.
 
 **Damaging a castle:** If a player damages an opponent's castle, they can do one of two things, if applicable:
 1. They may 'kidnap' an opponent's Royal Family member and take them back to their own castle.
