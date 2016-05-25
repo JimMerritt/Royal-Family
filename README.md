@@ -1,70 +1,118 @@
 # Royal Family
+Two royal families race to destroy each other. An open source table top game that requires only a normal deck of cards
 
-Rules summary:
-
-Game Objectives:
+## Game Objectives:
 A player is victorious if their opponent has no active castles in play.
 
-Setup:
+## Setup:
+The play area will consist of each player’s castle(s), any fortification currently in play, members of the royal family and any captured opposition family members. Between the two players, there will be a deck of all remaining cards, referred to as the draw pile, three face-up piles of cards and a face-down discard pile. If the joker is in play, it is set next to the draw pile or somewhere between the two players where it is easily noticeable.
 
-Remove the Ace of Spades and Ace of Hearts from the deck. These are the starting castles. The remaining cards are shuffled and set between the two players. The top three cards are turned face-up and are set next to the deck of remaining cards. This is where play begins.
+1. Get a standard 52 card deck. Keep the jokers in the deck.
+1. Each player starts with a castle (Ace card):
+  - Player One starts with a black castle placed in front of them (Ace of Spades). This is the Darklein family, their crest is the Spade &#9824;. The crest of their alliance family is the Club &#9827;.
+  - Player Two starts with a red castle placed in front of them (Ace of Hearts). This is the Bludgein family, their primary crest is the Heart &#9825;. The crest of their alliance family is the Diamond &#9826;.
+1. Shuffle the remaining deck.
+1. Deal three (3) cards from the top of the deck. Place them between the two the castles and the deck to the side of the three cards as follows:
 
-The play area will consist of each player’s castles, any fortification currently in play, members of the royal family and any captured opposition family members. Between the two players, there will be a deck of all remaining cards, referred to as the draw pile, three face-up piles of cards and a face-down discard pile. If the joker is in play, it is set next to the draw pile or somewhere between the two players where it is easily noticeable.
+```
+                  Ace 1
 
-Turn Order:
+DRAW PILE  |  1  |  2  |  3  |  (DISCARD PILE)  |  (JOKER)
 
+                  Ace 2
+
+```           
+
+This is where play begins.
+
+## Turn Order:
 The basis of the game is the struggle between those with power and those without. There will be periods of revolution followed by periods of oppression. Each round will see one player with two turns and one player with one turn. This is determined by the cards flopped at the beginning of each round. Play will go as follows:
 
-- Each round begins with three cards being flipped face-up onto the three piles next to the draw pile.
+- Each round begins with three cards being flopped face-up onto the three piles next to the draw pile.
 - The color with the fewest cards showing from these three cards gets first turn. This is the age of revolution.
 - The player with the fewest cards completes their first turn by drawing a card from either the draw pile or by taking a top card from one of the face-up piles. The card drawn by the player determines what actions they can take. When the player completes their action, it ends their first turn.
 - The opposing player does the same: draws a card and completes an action.
 - Finally, the original player that had the fewest cards showing during the flop takes their second turn.
 - Following the completion of three total turns, a new round begins and three new cards are flopped.
-- A new play order is again determined by what color has the lowest number of cards showing. That player goes first and third for this round.
+- A new play order is determined by what color has the lowest number of cards showing. That player goes first and third for this round.
 
-Since this game is all about the balance of revolution and oppression, it only makes sense that the oppressors will get their day as well. The difference in the season of oppression is that the player with the majority of cards in the flop is given the first turn. Aside from this, all other turn mechanics are the same.
+*Example: To begin the game, three cards are flopped, being placed face-up next to the draw pile. Of those three, there are two black cards and one red card. This means the Bludgein family (&#9825;) gets the first turn since there are fewer red cards in play. The turn order will be red, black, red, followed by another flop to close out the round. With this second flop, there are two red cards and one black card so the Darklein family (&#9824;) will get the first turn for this round. The turn order will be black, red, black, followed again by another flop.*
 
-The age of oppression comes when the first joker is revealed. This can happen either by drawing from the draw pile, or during the flop. As soon as a joker comes out when there is not one already, the change happens. If this happens during the flop, turn order is determined by the majority. If this happens during a standard turn, turn order for the next round is determined by the majority.
+##### The Age of oppression
+Since this game is all about the balance of revolution and oppression, it only makes sense that the oppressors will get their day as well. The difference in the season of oppression is that the player with the **majority of cards** in the flop is given the first turn. Aside from this, all other turn mechanics are the same.
 
-A few notes:
+The age of oppression comes when the first joker is revealed. This can happen either by drawing from the draw pile, or during the flop. As soon as a joker is drawn, the change of seasons happens. If this happens during the flop, turn order is immediately determined by the majority. If this happens during a standard turn, turn order for the next round is determined by the majority following the flop.
 
-- If the joker is pulled during the flop, move it to the area it will stay and replace the joker with another card from the draw pile.
-- If the joker is drawn from the draw pile during a player’s turn, that player cannot draw another card. The joker cannot be discarded by that player and must be put into play immediately.
-- If a joker is currently in play and the next joker comes out, the age of oppression ends and we return to the age of revolution. This age of revolution will stay in place until another joker is drawn.
+##### A few notes on process:
+- If the joker is pulled during the flop, move it to a space where it is easily noticeable for both players.
+- Replace the joker with another card from the draw pile, making sure all three piles have new face-up cards on them.
+- If the joker is drawn from the draw pile during a player’s turn, that player cannot draw another card. The joker cannot be discarded by that player and the joker must be put into play immediately.
+- If a joker is currently in play and the next joker comes out, the age of oppression ends and we return to the age of revolution. This age of revolution will stay in place until another joker is drawn. When this happens, place both jokers into the discard pile to be shuffled back in at a later time.
 
+*Example: Following the completion of five rounds, we begin round six with another flop. Two cards are drawn and placed face-up on the first two piles. The third card drawn is a joker. This means the Age of Oppression officially begins. The joker is placed next to the draw pile and another card is drawn and placed face-up on the third pile. Of the three cards flopped, two are black and one is red. This means, since it is the age of oppression, the Darklein family (&#9824;) gets the first turn since there are more black cards than red. The turn therefore becomes: black, red, black, followed by a flop. This flop then determines the order of the next round based on which color has a majority.*
 
-Game Concepts:
+## Game Concepts:
+**Castles:** Castles mark the strength of a player’s family. There are four total castles to be built, each represented by an Ace. Spades and Clubs are one alliance, Hearts and Diamonds another. Play begins with one castle being owned by each player. Players can also build a new castle if they gather the appropriate cards and royal family members.
 
-Castles: Castles mark the strength of a player’s family. There are four total castles to be built, each represented by an Ace. Spades and Clubs are one alliance, Hearts and Diamonds another. Play begins with one castle being owned by each player. Players can also build a new castle if they gather their cards and families.
+If there are no fortified troops in place to protect it, a castle will take damage when they are attacked. When a castle takes twenty total damage, it is destroyed and removed from the game, along with any current family members in the castle of the same suit. Any prisoners in a castle when it is destroyed can be rescued. When a player has no active castles, they lose the game.
 
-Castles take damage when they are attacked and there are no fortified troops in place to protect it. When a castle takes twenty total damage, it is destroyed and removed from the game, along with any current family members in the castle of the same suit. When a player has no active castles, they lose the game.
+**Troops:** Troops are represented by the number cards, ranging from 3 to 10. These troops can be used to attack an opponent’s castle or fortification, or to defend your own. When attacking, if there is a fortification in place for your opponent’s castle, it must be cleared before any damage can be done to the castle.
 
-Troops: Troops are represented by the number cards, ranging from 3 to 10. These troops can be used to attack an opponent’s castle, or to defend your own. When attacking, if there is a fortification in place within your opponent’s castle, it must be cleared before any damage can be done to the castle. Troop cards can only be used if you control a castle of the same suit. They can be used from the draw pile or from the face-up piles, but they cannot persist through turns. When a troop card is drawn or picked up, it must be used the same turn or discarded.
+Troop cards can only be used if you control a castle of the same suit. They can be used from the draw pile or from the face-up piles, but they cannot persist through turns. When a troop card is drawn or picked up, it must be used the same turn or discarded.
 
-Each troop card has a value. This value is based on the number of the card. The value of a Three of Hearts is three. The value of the Ten of Hearts is ten. When attacking, this value determines the damage that will be done to whatever is being attacked. This value will also determine the strength of a fortification.
+Each troop card has a value. This value is based on the number on the card. The value of a Three of Hearts is three. The value of the Ten of Hearts is ten. When attacking, this value determines the damage that will be done to whatever is being attacked. This value will also determine the strength of a fortification.
 
-Attacks: When using troops to attack, their attack value is based on their numeric value for that card. If an attack does not result in the destruction of its target, the attacking troop card will remain by that target until destroyed. If an attack does meet or exceed the value of its target, the attacking troops and the target card are both discarded face-down in the discard pile.
+**Attacks:** When using troops to attack, their attack value is based on their numeric value for that card. If an attack does not result in the destruction of its target, the attacking troop card will remain by that target until destroyed. If an attack does meet or exceed the value of its target, the attacking troops and the target card are both discarded face-down in the discard pile.
 
-Fortifications: When troops are used to fortify a castle, they are set in front of that castle. If there is a fortification in place, the castle cannot be attacked, and therefore, cannot be damaged.
+**Fortifications:** When troops are used to fortify a castle, they are set in front of that castle. If there is a fortification in place, the castle cannot be attacked, and therefore, cannot be damaged until the fortification is cleared.
 
-A few notes:
-
-- The fortification can only be built for a castle of the same suit. Fortifications cannot be set for alliance castles.
-- When a fortification is attacked with a lower value card, that damage stays. The card should be placed over the fortification card until the fortification is destroyed.
-- When a fortification takes enough damage to bring the value to 0 or below, it is destroyed. The fortification, along with any persistent damage cards by the fortification, will be discarded face-down in the discard pile.
+- A fortification can only be built for a castle of the same suit. Fortifications cannot be set for alliance castles.
+- When a fortification is attacked with a lower value card, that damage persists. The attacking card should be placed over the fortification card until the fortification is destroyed.
+- When a fortification takes enough damage to bring the value to 0 or below, it is destroyed. The fortification, along with the attacking card and any persistent damage cards, will be discarded face-down in the discard pile.
 
 Each castle can only have one fortification in place at any time. If a player decides they would like to upgrade their fortifications, the original one must be removed and discarded, along with any persistent damage for that fortification. The new card is then put into place.
 
-Attacking the Castle: Aside from the Royal Family rules, which will be covered below, attacking a castle is pretty straight-forward. If there is no fortification in place for their opposition’s castle, and a player has a number card matching their own suit available from either drawing from the draw pile, or from picking up a face-up card, that player may use that card to attack. If damage is done to the castle, the attacking troop card is set next to the castle to demonstrate damage has been done. That specific number card will stay in that same spot until the castle is destroyed. A castle is destroyed when there is at least 20 damage done to the castle. This 20 damage can be achieved with any combination of troop cards as long as the total is at least 20.
+**Attacking the Castle:** Aside from the Royal Family rules, which will be covered below, attacking a castle is fairly straight-forward. If there is no fortification in place for their opposition’s castle, and a player has a number card matching their own suit available from either drawing from the draw pile, or from picking up a face-up card, that player may use that card to attack. If damage is done to the castle, the attacking troop card is set next to the castle to demonstrate damage has been done. That specific number card will stay in that same spot until the castle is destroyed. A castle is destroyed when there is at least 20 damage done to the castle. This 20 damage can be achieved with any combination of troop cards as long as the total is at least 20.
 
-The Royal Family:
-A player’s Royal Family has multiple purposes. The primary purpose of all family members is allowing a player to damage their opponents castle. A player may attack a castle at any time (as long as there are no fortifications in place), the reasons for which are below. A player may not damage a castle, however, unless there is at least one royal family member in the castle of the attacker.
+**The Royal Family:** A player’s Royal Family has multiple purposes. The primary purpose of all family members is allowing a player to damage their opponents castle. A player may attack a castle at any time (as long as there are no fortifications in place), the reasons for which are below. A player may not damage a castle, however, unless there is at least one royal family member in the castle of the attacker.
 
+Royal family members are also used to control the strength of your opponent's royal family. When attacking, a royal family member can remove your opponent's family members if damage is done to their castle. Royal family members may only destroy opposition family members if those attacked are of a lower station. This means:
+
+- No family members can destroy a King.
+- A King can destroy a Queen or Jack.
+- A Queen can destroy a Jack.
+- A Jack cannot destroy any opposition face cards.
+
+Any family member can capture members of the opposing family and bring them back to the dungeon. There is no hierarchy set for this, meaning a Jack can capture a Queen, King or Jack, just as both other members can as well.
+
+If a royal family member is captured or kidnapped, they can be rescued by attacking the castle that is holding them and allowing their escape. If this is done, there is no way to destroy an opposing family member.
+
+**Capturing, Kidnapping and Rescuing:** Each castle has one space for holding a member of the opponent's family. You can only hold one member of the royal family at a time. While holding a prisoner, you may not remove that prisoner from the dungeon through any means. In order for a family member to leave the dungeon they are currently in, they must be rescued, or the castle holding them must be destroyed.
+
+The process for capturing, kidnapping or rescuing is as follows:
+- **Rescuing:** You may rescue a family member from the dungeon of your opponent's castle if you successfully attack their castle. You do not need to damage their castle, but only attack it. This means you do not have to have a family member of your own in your own castle when you attack.
+- **Capturing:** You may capture a member from your opponent's castle when you successfully attack and damage their castle. In order to damage their castle, you must have a family member of your own in your own castle. If you currently have a prisoner in your dungeon, you may not capture another.
+- **Kidnapping:** If one of your opponent's face cards is set face-up in one of the three piles, you may kidnap that face card. You would then place that face card in your castle's dungeon. If you currently have a prisoner in your dungeon, you may not kidnap another.
+
+**Assassinations:** All two cards are assassins. Whenever a two card is placed face-up, a player may use that card to eliminate one of their opponent's royal family. That's correct. A player may use a two card of any suit, as long as it is face-up, to destroy any of your opponent's royal family. If your opponent does not have any royal family members in play, you may not pick up the two card.
+
+If a payer draws a two card from the draw pile, they must remove one of their own royal family members. If they do not have an active royal family member, their castle takes one damage.
+
+## Actions
+Each turn you will either draw a card from the draw pile or pick one up from the face-up piles. The actions you can take depend on what card you pick up.
+- **2:** You can use twos to remove a family member from your opponent's castle
+- **3 - 10:** You can use these cards either as a fortification for your castle or use this card to attack your opponent. If your opponent has a fortification in place, you can only attack that fortification. If there is no fortification in place, you may attack their castle. If you have a family member in your castle, you will damage their castle.
+- **Face Card of your suit:** You may set these cards in your castle. They must be placed in the castle of the same suit, and cannot be placed in an alliance castle.
+- **Ace of your color:** If your alliance suit's ace is flopped, you may pick that card up and set it aside. This is the first step in building your second castle. Once your castle is set up, it will become active when you draw a face card of the same suit.
+
+
+##### Discard Options
+A player may choose to discard a card whenever they draw from the draw pile.
+
+- When discarding, the card can be placed in any location outside of the draw pile. This means the card can be placed face-up on one of the face-up piles, or placed face down in the discard pile.
+- If a player draws a two, they cannot discard that card before removing a family member or damaging their castle. They must account for the effects of a two before discarding.
 
 ————————————
-
-
 
 The Twos!!
 
